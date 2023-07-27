@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorTools.Client.dll": "sha256-NeuIyGjp0VjIyOW4cm204I0zv9x\/Wv8EYlkN+LJOAws=",
+      "BlazorTools.Client.dll": "sha256-0r1vsNObUWQ0cT6eUAGKQD1nMkTd0ghsDHzcMRcMClM=",
       "BlazorTools.Shared.dll": "sha256-2rVRB3XDjWNfrWi0eVpSQU0Enyym8Z4EPAcrgYXoGAg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-RiJgNEufJDEA+EVaFgfS2JRp1ldh9A71YDB+XH2Gp0Q=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-RwQyDBf0psLEIOqPbqJO05G0lUW2oLvP3fZ5qjXiGNc=",
@@ -51,7 +51,7 @@
     "lazyAssembly": {
       "BlazorTools.FFmpegConvert.dll": "sha256-YepbQ9FJk00lAwTc8BbnVNl2yJ4CfZSeeFQRYs+qtd4=",
       "FFmpegBlazor.dll": "sha256-2285NYjyf4hEr41S1jIcQxKYfPkxTbzCOQvZQKFblVU=",
-      "SixLabors.ImageSharp.dll": "sha256-eUQuH4Y\/njtzlf\/waeKDInnhKm6i4egGxbhGI9kP5Uw="
+      "SixLabors.ImageSharp.dll": "sha256-QiFJ2pnyzWhvO2p+JGHfKR8CniZKTmAtfAIkb2CnrX0="
     },
     "libraryInitializers": null,
     "pdb": null,
